@@ -12,6 +12,8 @@ http://localhost:19999
 ## 📸 Screenshot
 Included screenshot of dashboard in `![dashboard](https://github.com/user-attachments/assets/29d6afa2-d645-488b-abbc-66f07f3ad7c2)
 `.
+![dashboard](https://github.com/user-attachments/assets/49a92b58-e8a8-4f71-8984-0b44bde2d4d3)
+
 
 ## 📊 Metrics Monitored
 - CPU usage
