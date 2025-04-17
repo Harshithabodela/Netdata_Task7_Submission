@@ -12,7 +12,8 @@ http://localhost:19999
 ## 📸 Screenshot
 Included screenshot of dashboard in `![dashboard](https://github.com/user-attachments/assets/29d6afa2-d645-488b-abbc-66f07f3ad7c2)
 `.
-![dashboard](https://github.com/user-attachments/assets/49a92b58-e8a8-4f71-8984-0b44bde2d4d3)
+![dashboard](https://github.com/user-attachments/assets/49a92b58-e8a8-4f71-8984-0b44bde2d4d3
+<img width="1440" alt="Screenshot 2025-04-17 at 7 48 19 PM" src="https://github.com/user-attachments/assets/bf5cebb3-7888-4778-b842-d58b855de200" />
 
 
 ## 📊 Metrics Monitored
