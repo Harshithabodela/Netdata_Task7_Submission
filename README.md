@@ -10,7 +10,8 @@ Access Dashboard:
 http://localhost:19999
 
 ## 📸 Screenshot
-Included screenshot of dashboard in `dashboard.png`.
+Included screenshot of dashboard in `![dashboard](https://github.com/user-attachments/assets/29d6afa2-d645-488b-abbc-66f07f3ad7c2)
+`.
 
 ## 📊 Metrics Monitored
 - CPU usage
